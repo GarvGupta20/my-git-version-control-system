@@ -1,7 +1,7 @@
 # my-git-version-control-system
 it is a project that goes under the hood of the version control system
 this is a prototype of git system that works with the .txt file
-this code initialises the repo repository which is same as the git repository that we work with and have objcets file that have hash of the filecontents and the head which is our 
+this code initialises the repo repository which is same as the git repository that we work with and have objects file that have hash of the filecontents and the head which is our 
 parent file and the index folder that keeps on the updaing the system staging 
 
 
@@ -20,7 +20,7 @@ you can play around with the files as much as you want as it will create the obj
 this version control system doesnt invode the git diff and gt branch git merge and most importantly the git checkout functonality
 
 but this code provides the basic of how the version control system keep track of ypur files 
-for the extended learning about the git and version control system kindly foloow the git repository as it is open source
+for the extended learning about the git and version control system kindly follow the git repository as it is open source
 https://github.com/git/git
 or you can folow this blog for the inspiration 
 https://tom.preston-werner.com/2009/05/19/the-git-parable.html
